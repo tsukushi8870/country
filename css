@@ -1,0 +1,19 @@
+# country[brown.css](https://github.com/user-attachments/files/22691122/brown.css)
+
+ body {
+      background-color: #fffaf0; /* 背景色 */
+      font-family:"Rounded Mplus 1c"; /* 文字のフォント */
+      padding: 50px;
+    }
+    
+ p {
+color:#cd853f;
+}
+
+ h1 {
+color:#8b4513;
+}
+ h2 {
+color:#8b4513;
+font-size: 1.5em;
+}
